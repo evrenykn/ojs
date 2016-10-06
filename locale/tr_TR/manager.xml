@@ -506,6 +506,7 @@
 	<message key="manager.statistics.reports.defaultReport.journalIndexPageViews">Dergi ana sayfa görüntülemeleri</message>
 	<message key="manager.setup.resetPermissions">Makale İzinlerini Sıfırla</message>
 	<message key="manager.setup.copyrightYearBasis">Yeni makalenin temel telif hakkı yılı</message>
+	<message key="manager.website.appearance">Website Görünümü</message>
 
 	<!-- Common DOI export plugins (crossref, datacite, medra) keys -->
 	<!-- plugin tabs -->
